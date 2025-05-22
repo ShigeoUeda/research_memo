@@ -242,58 +242,58 @@ AI技術は、大量のコンテンツデータや視聴者フィードバック
 
 ## **参考文献**
 
-| 典拠ID | 著者/発行元 | 発行年/最終更新日 | タイトル | URL | 主な内容/関連キーワード |
-| :---- | :---- | :---- | :---- | :---- | :---- |
-| 1 | 株式会社エムニ | 2025 | ナレッジマネジメントとは？意味や手法・事例をわかりやすく解説 | [https://media.emuniinc.jp/2025/03/22/knowledge-management/](https://media.emuniinc.jp/2025/03/22/knowledge-management/) | SECIモデル、暗黙知・形式知、場 |
-| 2 | 富士通ラーニングメディア | 発行年不明 | SECIモデルとは？具体例を交えてわかりやすく解説 | [https://www.knowledgewing.com/kcc/share/method/single76.html](https://www.knowledgewing.com/kcc/share/method/single76.html) | SECIモデル、ナレッジマネジメント、暗黙知・形式知、場 |
-| 3 | 福岡大学リポジトリ | 発行年不明 | o1943\_all.pdf | [https://fukuoka-u.repo.nii.ac.jp/record/6105/files/o1943\_all.pdf](https://fukuoka-u.repo.nii.ac.jp/record/6105/files/o1943_all.pdf) | SECIモデル解説、看護分野での応用 |
-| 4 | Washizaki, H. | 2020 | ソフトウェア設計のパラダイムシフトとパターン | [https://www.slideshare.net/hironoriwashizaki/ss-240026989](https://www.slideshare.net/hironoriwashizaki/ss-240026989) | パターン・ランゲージの概念、ソフトウェア工学への応用、Know-Why/What/How |
-| 5 | 立教大学研究者情報 | 2025 | 三宅 陽一郎 | [https://univdb.rikkyo.ac.jp/view?l=ja\&u=100002164](https://univdb.rikkyo.ac.jp/view?l=ja&u=100002164) | 三宅陽一郎氏「Game design pattern language」講演、物語構造分析と番組企画パターン化への考察 |
-| 6 | 関東学院大学 | 発行年不明 | 関東学院大学 教育開発・学修支援センター 活動報告書 No.4 | [https://univ.kanto-gakuin.ac.jp/wp-content/uploads/report\_no04.pdf](https://univ.kanto-gakuin.ac.jp/wp-content/uploads/report_no04.pdf) | パターン・ランゲージワークショップ事例 |
-| 7 | 神戸大学経済経営研究所 | 発行年不明 | dpJ81Revised.pdf | (https://www.rieb.kobe-u.ac.jp/academic/ra/dp/Japanese/dpJ81Revised.pdf) | ソニーのテレビ開発事例、知識フロー、ナレッジマネジメント |
-| 8 | 矢守克也, 渥美公秀, 吉田有紀, 近藤誠司, 杉山高志 | 2019 | 災害ケースマネジメントにおけるゲーミングの意義と可能性―「つくってつかう」防災学習の提案― | [https://hurin.ws.hosei.ac.jp/wp-content/uploads/2019/11/vol06\_063-075.pdf](https://hurin.ws.hosei.ac.jp/wp-content/uploads/2019/11/vol06_063-075.pdf) | 実践共同体、知識内面化 |
-| 9 | 野中郁次郎, 竹内弘高 (著), 梅本勝博 (訳) | 発行年不明 | 知識創造企業 | [https://note.com/danshikaji/n/n45d6de278954](https://note.com/danshikaji/n/n45d6de278954) | コミュニティの発展段階に関する言及の可能性のある資料 |
-| 10 | (該当なし) |  |  |  | (プレースホルダー) |
-| 11 | 株式会社メタデータ | 2025 | ナレッジマネジメントを生成AI、RAGで駆動 | [https://metadata.co.jp/wp-content/uploads/2025/04/0a9599613590a12397be1b56762f2ce7-1.pdf](https://metadata.co.jp/wp-content/uploads/2025/04/0a9599613590a12397be1b56762f2ce7-1.pdf) | RAG、知識開発作業、Markdown形式 |
-| 12 | (該当なし) |  |  |  | (プレースホルダー) |
-| 13 | (該当なし) |  |  |  | (プレースホルダー) |
-| 14 | 国立情報学研究所 | 2009 | 国立情報学研究所 年報 平成21年度 | [https://www.nii.ac.jp/about/upload/H21-nii-nenpou.pdf](https://www.nii.ac.jp/about/upload/H21-nii-nenpou.pdf) | NII TV-RECS, NetCommons, Researchmapの概要と成果、放送業界への貢献と知識共有への示唆 |
-| 15 | 株式会社三菱総合研究所 | 2019 | 日本の映画産業及びテレビ放送産業の経済効果推計に関する調査報告書 | (https://www.jimca.co.jp/research\_statistics/reports/MRI\_Japan\_ECR2019\_finalReport(JN)\_20191021.pdf) | 映画・テレビ産業の経済効果、トレンド |
-| 16 | 総務省情報通信審議会 | 2016 | 視聴環境の変化に対応した放送コンテンツの製作・流通の促進方策のあり方 中間報告（案） | [https://www.soumu.go.jp/main\_content/000496631.pdf](https://www.soumu.go.jp/main_content/000496631.pdf) | 放送コンテンツ製作・流通、視聴環境変化、技術開発、情報共有、放送コンテンツ適正取引推進協議会、ベストプラクティス、情報共有基盤 |
-| 17 | 魚 ヒョヨン | 発行年不明 | 日本のドラマコンテンツの海外展開における障害要因と改善策に関する研究 | [https://nihon-u.repo.nii.ac.jp/record/2001483/files/EO-HYEEUN-3.pdf](https://nihon-u.repo.nii.ac.jp/record/2001483/files/EO-HYEEUN-3.pdf) | 日本のドラマ海外展開の課題、制作現場の問題、ドラマの質の低下、現状安住と知識共有の関連 |
-| 18 | 東洋経済オンライン | 2007 | お笑いタレント養成学校はこんな学科を創設せよ！ | [https://toyokeizai.net/articles/-/35467?display=b](https://toyokeizai.net/articles/-/35467?display=b) | お笑いのパターン分析 |
-| 19 | 一般社団法人全日本テレビ番組製作社連盟 | 発行年不明 | 映像製作における「働き方改革」の推進について | [https://www.atp.or.jp/rights/workstyle.php](https://www.atp.or.jp/rights/workstyle.php) | 放送コンテンツ適正取引推進協議会、情報共有、ルール作り |
-| 20 | 放送コンテンツ適正取引推進有限責任事業組合 | 2021 | 放送コンテンツ適正取引テキスト | [http://tekisei-torihiki.org/assets/guideline\_text.pdf](http://tekisei-torihiki.org/assets/guideline_text.pdf) | 放送コンテンツ適正取引、ベストプラクティス、研修 |
-| 21 | 内閣官房知的財産戦略推進事務局 | 2017 | 我が国におけるデジタルアーカイブ推進の方向性 | [https://www.kantei.go.jp/jp/singi/titeki2/digitalarchive\_kyougikai/houkokusho.pdf](https://www.kantei.go.jp/jp/singi/titeki2/digitalarchive_kyougikai/houkokusho.pdf) | デジタルアーカイブ、放送コンテンツの権利処理課題 |
-| 22 | Fernberg, P. | 2024 | Artificial Intelligence and Landscape Architecture: Cultural Topography, Mental Models, and Frameworks for an AI-Driven World | [https://digitalcommons.usu.edu/context/etd2023/article/1176/viewcontent/LAEPetd2024May\_Fernberg\_Phillip.pdf](https://digitalcommons.usu.edu/context/etd2023/article/1176/viewcontent/LAEPetd2024May_Fernberg_Phillip.pdf) | AIとクリエイティブアイデンティティ |
-| 23 | 中央大学研究者情報データベース | 2025 | 中野 純司 | [https://c-research.chuo-u.ac.jp/html/100003425\_ja.html](https://c-research.chuo-u.ac.jp/html/100003425_ja.html) | 中野純司氏の論文概要とテレビ番組分析への応用可能性詳細 |
-| 24 | 岩手県立大学ソフトウェア情報学部 | 2019 | ソフトウェア情報学部年報 第15号 | [https://iwate-pu.repo.nii.ac.jp/record/3539/files/soft15\_3-245.pdf](https://iwate-pu.repo.nii.ac.jp/record/3539/files/soft15_3-245.pdf) | AI活用、CCL技術、番組制作ノウハウ抽出への応用可能性は記載なし |
-| 25 | NTTコミュニケーションズ | 発行年不明 | 読売新聞東京本社様 導入事例 | [https://www.ntt.com/business/case-studies/solution/yomiuri.html](https://www.ntt.com/business/case-studies/solution/yomiuri.html) | 情報共有ツール事例 |
-| 26 | 総務省 | 2021 | 令和3年版 情報通信白書 第2部 第5節 3.テレワークの実施状況と課題 | [https://www.soumu.go.jp/main\_content/000780877.pdf](https://www.soumu.go.jp/main_content/000780877.pdf) | コミュニケーションツール事例 |
-| 27 | 科学技術振興機構 | 2013 | 平成24年度業務実績等報告書 | [https://www.jst.go.jp/announce/hyouka/h24institute/h24gyoumuhoukoku.pdf](https://www.jst.go.jp/announce/hyouka/h24institute/h24gyoumuhoukoku.pdf) | NBDCポータルサイト事例からの知識共有基盤構築のヒント詳細 |
-| 28 | Cities of Making | 2020 | Making an Urban Manufacturing Pattern Language | (https://citiesofmaking.com/wp-content/uploads/2020/03/COM-BOOK\_20200226.pdf) | クリエイティブ産業、パターン・ランゲージ |
-| 29 | 国立情報学研究所 | 2022 | 国立情報学研究所 年報 2022 | [https://www.nii.ac.jp/about/upload/2022-nii-nenpou.pdf](https://www.nii.ac.jp/about/upload/2022-nii-nenpou.pdf) | コンテンツ科学研究 |
-| 30 | 日本大学リポジトリ | 発行年不明 | Kawakami-Satoru-3.pdf | (([https://nihon-u.repo.nii.ac.jp/record/2001804/files/Kawakami-Satoru-3.pdf](https://nihon-u.repo.nii.ac.jp/record/2001804/files/Kawakami-Satoru-3.pdf))) | 放送・ケーブルテレビ業界のシミュレーション研究 |
-|  | ProQuest |  | (欧州公共放送のKM事例) |  | ワークフローとノウハウの共通テンプレート化 |
-|  | Knoco stories |  | (BBCのKMアンバサダー事例) |  | KMアンバサダー、ローテーション人事、成果評価 |
-|  | 埼玉大学学術情報リポジトリ（SUCRA） |  | (NHKと民放の比較研究) |  | 公共放送のナレッジ共有ポリシー |
-|  | alote.inmybook.jp |  | (SECIモデルの応用事例) |  | 社内研修シナリオの番組フォーマット開発への転用、事後レビュー会議の表出化フェーズ活用 |
-|  | MarkeZine |  | (企画立案パターンの書籍) |  | マーケティング向け成功パターンのテレビ番組企画への応用 |
-|  | Peatix |  | (井庭研究室パターン・ランゲージWS) |  | 番組制作現場の“ずらし”発想のパターン化 |
-|  | note（ノート） |  | (現役演出家の思考プロセス公開) |  | パターン抽出のインタビュー教材としての可能性 |
-|  | hillside.net |  | (Fun Language) |  | 視聴者体験に焦点を当てたパターン・ランゲージ |
-|  | University of Hertfordshire, inform.nu |  | (オーストラリア映画産業の暗黙知研究) |  | プロデューサーの暗黙知抽出・共有と創造性向上 |
-|  | meson press |  | (Tacit Cinematic Knowledge) |  | 映像制作の身体的・感覚的スキルの理論化と教育応用 |
-|  | The City College of New York |  | (ニューロマーケティング研究) |  | EEGによる脳波同期度測定とエンゲージメント予測 |
-|  | Netflix Research |  | (Netflixのデータ活用戦略) |  | 視聴ログ×ベイズ推定による興味クラスタ生成、企画支援 |
-|  | AP News |  | (Netflixの分析文化) |  | 伝統的制作ノウハウの数値化事例 |
-|  | Digital.gov |  | (Video Production Prosコミュニティ) |  | 省庁横断の制作ノウハウ共有コミュニティ |
-|  | テレ東・ＢＳテレ東, ナレッジ動画 |  | (国内SaaS事例) |  | 企画書テンプレート、制作用動画の社内SNS共有、字幕自動生成、アクセス制御 |
-|  | Coveo |  | (知識の囲い込み問題) |  | クリエイティブ組織における知識共有の阻害要因 |
-|  | Industrial Scripts® |  | Perfect TV Show Bible |  | フォーマットの構造整理ガイド・テンプレート |
-|  | StudioBinder |  | Pitch Bible/Pitch Deck Template |  | ビジュアル資料作成テンプレート・解説 |
-|  | TVWriters Vault |  | (リアリティ・ドキュメント系企画ピッチフォーム) |  | 実務に即した企画書作成ヒント |
-|  | C21Media |  | Content London Drama Series Pitch | [https://www.c21media.net/session/content-london-drama-series-pitch/](https://www.c21media.net/session/content-london-drama-series-pitch/) | ドラマ企画ピッチ事例、コンセプト資料 |
+| 典拠ID | タイトル | 執筆者 | 発行元 | 発行年/最終更新日 | URL | 主な内容/関連キーワード |
+| :---- | :---- | :---- | :---- | :---- | :---- | :---- |
+| 1 | ナレッジマネジメントとは？意味や手法・事例をわかりやすく解説 |  | 株式会社エムニ | 2025 | [https://media.emuniinc.jp/2025/03/22/knowledge-management/](https://media.emuniinc.jp/2025/03/22/knowledge-management/) | SECIモデル、暗黙知・形式知、場 |
+| 2 | SECIモデルとは？具体例を交えてわかりやすく解説 |  | 富士通ラーニングメディア | 発行年不明 | [https://www.knowledgewing.com/kcc/share/method/single76.html](https://www.knowledgewing.com/kcc/share/method/single76.html) | SECIモデル、ナレッジマネジメント、暗黙知・形式知、場 |
+| 3 | o1943\_all.pdf |  | 福岡大学リポジトリ | 発行年不明 | [https://fukuoka-u.repo.nii.ac.jp/record/6105/files/o1943\_all.pdf](https://fukuoka-u.repo.nii.ac.jp/record/6105/files/o1943_all.pdf) | SECIモデル解説、看護分野での応用 |
+| 4 | ソフトウェア設計のパラダイムシフトとパターン | Washizaki, H. | SlideShare | 2020 | [https://www.slideshare.net/hironoriwashizaki/ss-240026989](https://www.slideshare.net/hironoriwashizaki/ss-240026989) | パターン・ランゲージの概念、ソフトウェア工学への応用、Know-Why/What/How |
+| 5 | 研究者詳細：三宅 陽一郎 | 三宅 陽一郎 | 立教大学 | 2025 | [https://univdb.rikkyo.ac.jp/view?l=ja\&u=100002164](https://univdb.rikkyo.ac.jp/view?l=ja&u=100002164) | 三宅陽一郎氏「Game design pattern language」講演、物語構造分析と番組企画パターン化への考察 |
+| 6 | 関東学院大学 教育開発・学修支援センター 活動報告書 No.4 |  | 関東学院大学 | 発行年不明 | [https://univ.kanto-gakuin.ac.jp/wp-content/uploads/report\_no04.pdf](https://univ.kanto-gakuin.ac.jp/wp-content/uploads/report_no04.pdf) | パターン・ランゲージワークショップ事例 |
+| 7 | dpJ81Revised.pdf |  | 神戸大学経済経営研究所 | 発行年不明 | (https://www.rieb.kobe-u.ac.jp/academic/ra/dp/Japanese/dpJ81Revised.pdf) | ソニーのテレビ開発事例、知識フロー、ナレッジマネジメント |
+| 8 | 災害ケースマネジメントにおけるゲーミングの意義と可能性―「つくってつかう」防災学習の提案― | 矢守克也, 渥美公秀, 吉田有紀, 近藤誠司, 杉山高志 |  | 2019 | [https://hurin.ws.hosei.ac.jp/wp-content/uploads/2019/11/vol06\_063-075.pdf](https://hurin.ws.hosei.ac.jp/wp-content/uploads/2019/11/vol06_063-075.pdf) | 実践共同体、知識内面化 |
+| 9 | 知識創造企業 | 野中郁次郎, 竹内弘高 (著), 梅本勝博 (訳) |  | 発行年不明 | [https://note.com/danshikaji/n/n45d6de278954](https://note.com/danshikaji/n/n45d6de278954) | コミュニティの発展段階に関する言及の可能性のある資料 |
+| 10 | (該当なし) |  |  |  |  | (プレースホルダー) |
+| 11 | ナレッジマネジメントを生成AI、RAGで駆動 |  | 株式会社メタデータ | 2025 | [https://metadata.co.jp/wp-content/uploads/2025/04/0a9599613590a12397be1b56762f2ce7-1.pdf](https://metadata.co.jp/wp-content/uploads/2025/04/0a9599613590a12397be1b56762f2ce7-1.pdf) | RAG、知識開発作業、Markdown形式 |
+| 12 | (該当なし) |  |  |  |  | (プレースホルダー) |
+| 13 | (該当なし) |  |  |  |  | (プレースホルダー) |
+| 14 | 国立情報学研究所 年報 平成21年度 |  | 国立情報学研究所 | 2009 | [https://www.nii.ac.jp/about/upload/H21-nii-nenpou.pdf](https://www.nii.ac.jp/about/upload/H21-nii-nenpou.pdf) | NII TV-RECS, NetCommons, Researchmapの概要と成果、放送業界への貢献と知識共有への示唆 |
+| 15 | 日本の映画産業及びテレビ放送産業の経済効果推計に関する調査報告書 |  | 株式会社三菱総合研究所 | 2019 | (https://www.jimca.co.jp/research\_statistics/reports/MRI\_Japan\_ECR2019\_finalReport(JN)\_20191021.pdf) | 映画・テレビ産業の経済効果、トレンド |
+| 16 | 視聴環境の変化に対応した放送コンテンツの製作・流通の促進方策のあり方 中間報告（案） |  | 総務省情報通信審議会 | 2016 | [https://www.soumu.go.jp/main\_content/000496631.pdf](https://www.soumu.go.jp/main_content/000496631.pdf) | 放送コンテンツ製作・流通、視聴環境変化、技術開発、情報共有、放送コンテンツ適正取引推進協議会、ベストプラクティス、情報共有基盤 |
+| 17 | 日本のドラマコンテンツの海外展開における障害要因と改善策に関する研究 | 魚 ヒョヨン | 日本大学リポジトリ | 発行年不明 | [https://nihon-u.repo.nii.ac.jp/record/2001483/files/EO-HYEEUN-3.pdf](https://nihon-u.repo.nii.ac.jp/record/2001483/files/EO-HYEEUN-3.pdf) | 日本のドラマ海外展開の課題、制作現場の問題、ドラマの質の低下、現状安住と知識共有の関連 |
+| 18 | お笑いタレント養成学校はこんな学科を創設せよ！ |  | 東洋経済オンライン | 2007 | [https://toyokeizai.net/articles/-/35467?display=b](https://toyokeizai.net/articles/-/35467?display=b) | お笑いのパターン分析 |
+| 19 | 映像製作における「働き方改革」の推進について |  | 一般社団法人全日本テレビ番組製作社連盟 | 発行年不明 | [https://www.atp.or.jp/rights/workstyle.php](https://www.atp.or.jp/rights/workstyle.php) | 放送コンテンツ適正取引推進協議会、情報共有、ルール作り |
+| 20 | 放送コンテンツ適正取引テキスト |  | 放送コンテンツ適正取引推進有限責任事業組合 | 2021 | [http://tekisei-torihiki.org/assets/guideline\_text.pdf](http://tekisei-torihiki.org/assets/guideline_text.pdf) | 放送コンテンツ適正取引、ベストプラクティス、研修 |
+| 21 | 我が国におけるデジタルアーカイブ推進の方向性 |  | 内閣官房知的財産戦略推進事務局 | 2017 | [https://www.kantei.go.jp/jp/singi/titeki2/digitalarchive\_kyougikai/houkokusho.pdf](https://www.kantei.go.jp/jp/singi/titeki2/digitalarchive_kyougikai/houkokusho.pdf) | デジタルアーカイブ、放送コンテンツの権利処理課題 |
+| 22 | Artificial Intelligence and Landscape Architecture: Cultural Topography, Mental Models, and Frameworks for an AI-Driven World | Fernberg, P. | Utah State University | 2024 | [https://digitalcommons.usu.edu/context/etd2023/article/1176/viewcontent/LAEPetd2024May\_Fernberg\_Phillip.pdf](https://digitalcommons.usu.edu/context/etd2023/article/1176/viewcontent/LAEPetd2024May_Fernberg_Phillip.pdf) | AIとクリエイティブアイデンティティ |
+| 23 | 研究者情報：中野 純司 | 中野 純司 | 中央大学研究者情報データベース | 2025 | [https://c-research.chuo-u.ac.jp/html/100003425\_ja.html](https://c-research.chuo-u.ac.jp/html/100003425_ja.html) | 中野純司氏の論文概要とテレビ番組分析への応用可能性詳細 |
+| 24 | ソフトウェア情報学部年報 第15号 |  | 岩手県立大学ソフトウェア情報学部 | 2019 | [https://iwate-pu.repo.nii.ac.jp/record/3539/files/soft15\_3-245.pdf](https://iwate-pu.repo.nii.ac.jp/record/3539/files/soft15_3-245.pdf) | AI活用、CCL技術、番組制作ノウハウ抽出への応用可能性は記載なし |
+| 25 | 読売新聞東京本社様 導入事例 |  | NTTコミュニケーションズ | 発行年不明 | [https://www.ntt.com/business/case-studies/solution/yomiuri.html](https://www.ntt.com/business/case-studies/solution/yomiuri.html) | 情報共有ツール事例 |
+| 26 | 令和3年版 情報通信白書 第2部 第5節 3.テレワークの実施状況と課題 |  | 総務省 | 2021 | [https://www.soumu.go.jp/main\_content/000780877.pdf](https://www.soumu.go.jp/main_content/000780877.pdf) | コミュニケーションツール事例 |
+| 27 | 平成24年度業務実績等報告書 |  | 科学技術振興機構 | 2013 | [https://www.jst.go.jp/announce/hyouka/h24institute/h24gyoumuhoukoku.pdf](https://www.jst.go.jp/announce/hyouka/h24institute/h24gyoumuhoukoku.pdf) | NBDCポータルサイト事例からの知識共有基盤構築のヒント詳細 |
+| 28 | Making an Urban Manufacturing Pattern Language |  | Cities of Making | 2020 | (https://citiesofmaking.com/wp-content/uploads/2020/03/COM-BOOK\_20200226.pdf) | クリエイティブ産業、パターン・ランゲージ |
+| 29 | 国立情報学研究所 年報 2022 |  | 国立情報学研究所 | 2022 | [https://www.nii.ac.jp/about/upload/2022-nii-nenpou.pdf](https://www.nii.ac.jp/about/upload/2022-nii-nenpou.pdf) | コンテンツ科学研究 |
+| 30 | Kawakami-Satoru-3.pdf |  | 日本大学リポジトリ | 発行年不明 | ((([https://nihon-u.repo.nii.ac.jp/record/2001804/files/Kawakami-Satoru-3.pdf](https://nihon-u.repo.nii.ac.jp/record/2001804/files/Kawakami-Satoru-3.pdf)))) | 放送・ケーブルテレビ業界のシミュレーション研究 |
+|  | (欧州公共放送のKM事例) |  | ProQuest |  |  | ワークフローとノウハウの共通テンプレート化 |
+|  | (BBCのKMアンバサダー事例) |  | Knoco stories |  |  | KMアンバサダー、ローテーション人事、成果評価 |
+|  | (NHKと民放の比較研究) |  | 埼玉大学学術情報リポジトリ（SUCRA） |  |  | 公共放送のナレッジ共有ポリシー |
+|  | (SECIモデルの応用事例) |  | alote.inmybook.jp |  |  | 社内研修シナリオの番組フォーマット開発への転用、事後レビュー会議の表出化フェーズ活用 |
+|  | (企画立案パターンの書籍) |  | MarkeZine |  |  | マーケティング向け成功パターンのテレビ番組企画への応用 |
+|  | (井庭研究室パターン・ランゲージWS) |  | Peatix |  |  | 番組制作現場の“ずらし”発想のパターン化 |
+|  | (現役演出家の思考プロセス公開) |  | note（ノート） |  |  | パターン抽出のインタビュー教材としての可能性 |
+|  | (Fun Language) |  | hillside.net |  |  | 視聴者体験に焦点を当てたパターン・ランゲージ |
+|  | (オーストラリア映画産業の暗黙知研究) |  | University of Hertfordshire, inform.nu |  |  | プロデューサーの暗黙知抽出・共有と創造性向上 |
+|  | (Tacit Cinematic Knowledge) |  | meson press |  |  | 映像制作の身体的・感覚的スキルの理論化と教育応用 |
+|  | (ニューロマーケティング研究) |  | The City College of New York |  |  | EEGによる脳波同期度測定とエンゲージメント予測 |
+|  | (Netflixのデータ活用戦略) |  | Netflix Research |  |  | 視聴ログ×ベイズ推定による興味クラスタ生成、企画支援 |
+|  | (Netflixの分析文化) |  | AP News |  |  | 伝統的制作ノウハウの数値化事例 |
+|  | (Video Production Prosコミュニティ) |  | Digital.gov |  |  | 省庁横断の制作ノウハウ共有コミュニティ |
+|  | (国内SaaS事例) |  | テレ東・ＢＳテレ東, ナレッジ動画 |  |  | 企画書テンプレート、制作用動画の社内SNS共有、字幕自動生成、アクセス制御 |
+|  | (知識の囲い込み問題) |  | Coveo |  |  | クリエイティブ組織における知識共有の阻害要因 |
+|  | Perfect TV Show Bible |  | Industrial Scripts® |  |  | フォーマットの構造整理ガイド・テンプレート |
+|  | Pitch Bible/Pitch Deck Template |  | StudioBinder |  |  | ビジュアル資料作成テンプレート・解説 |
+|  | (リアリティ・ドキュメント系企画ピッチフォーム) |  | TVWriters Vault |  |  | 実務に即した企画書作成ヒント |
+|  | Content London Drama Series Pitch |  | C21Media |  | [https://www.c21media.net/session/content-london-drama-series-pitch/](https://www.c21media.net/session/content-london-drama-series-pitch/) | ドラマ企画ピッチ事例、コンセプト資料 |
 
 #### **引用文献**
 
